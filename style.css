@@ -105,3 +105,10 @@ a:hover {
     font-weight: bold;
     border-bottom: 1px solid #e0c89d;
 }
+
+.map {
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+}
